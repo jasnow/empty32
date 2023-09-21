@@ -68,7 +68,7 @@ DEPENDENCIES
   spektr
 
 RUBY VERSION
-   ruby 3.3.0.preview2
+   ruby 3.2.2p53
 
 BUNDLED WITH
-   2.5.0.dev
+   2.4.19
