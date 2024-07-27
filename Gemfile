@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '3.2.4'
+ruby '3.2.5'
 
 # 12/5/2019: Commented out the following:
 #gem 'sorbet', :group => :development
